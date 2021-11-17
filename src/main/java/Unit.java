@@ -4,6 +4,10 @@ public class Unit {
     private String name;
     private UUID id;
 
+    public Unit(String name,UUID id){
+        this.name=name;
+        this.id=id;
+    }
     public UUID getId() {
         return id;
     }
