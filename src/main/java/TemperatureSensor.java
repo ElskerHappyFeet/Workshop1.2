@@ -1,2 +1,2 @@
-public class TemperatureSensor {
+public class TemperatureSensor extends Sensor{
 }

@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class Building {
+public class Building extends Unit {
     //Attributter
     private List<Sensor> sensors;
     private List<Actuator> actuators;
