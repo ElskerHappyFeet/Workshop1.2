@@ -44,5 +44,5 @@ public class Building extends Unit {
     public void removeSensor(Sensor sensor) {
         sensors.remove(sensor);
     }
-    
+
 }
