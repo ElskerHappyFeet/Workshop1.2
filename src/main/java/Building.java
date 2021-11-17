@@ -44,5 +44,5 @@ public class Building {
     public void removeSensor(Sensor sensor) {
         sensors.remove(sensor);
     }
-    
+
 }
